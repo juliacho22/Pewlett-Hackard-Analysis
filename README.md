@@ -10,6 +10,6 @@ The project analyzes the possible retiring employees at Pewlett Hackard. Based o
 - Out of all the employees expected to retire soon, 68,558 are engineers \
 [retiring_titles.csv](https://github.com/juliacho22/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv).
 
-##Summary
+## Summary
 Based on the analysis, a total of 90,396 employees at Pewlett Hackard will be retiring soon. 
 Based on the mentorship eligibility file, there are no employees that are qualified to assist with the transition program. There may be more opportunities for the transition program if the parameters for mentors were increased, such as looking into a broader range of in birthdate. Additionally, the company should invest in creating a training program and gather information on what made the "silver tsunami" generation to be so successful to prepare for the large hire
